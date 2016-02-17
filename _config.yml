@@ -17,8 +17,8 @@ destination: _site
 
 # site title, description, meta_description, meta_keywords
 # Details for the RSS feed generator
-name: BB8
-title: My Blog
+name: Andy Colman
+title: the life of a hardass
 description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
 meta_description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
 meta_keywords: "site, website, loja virtual, lojas virtuais, e-commerce, wordpress, frontend, front-end, html5, css3, javascript, jquery, seo, otimizacao, performance"
@@ -28,8 +28,8 @@ repo: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
 disqus_shortname: "fernandomoreira"
 rss_path: source/
 author:
-  name      : BB8
-  image     : /assets/images/author.jpg
+  name      : Andy Colman
+  image     : /assets/images/10492255_860294727382650_719420471705350474_n.jpg
   email     : bb8@swars.com
   url       : http://bb8.me
   facebook  : http://facebook.com/bb8

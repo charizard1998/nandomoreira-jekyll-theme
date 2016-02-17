@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A wonderful serenity has taken possession of my entire soul"
-date: 2015-11-12 16:39:18
+title: "Programmers Mindset"
+date: 2016-2-17 16:39:18
 comments: true
-description: "A wonderful serenity has taken possession of my entire soul"
+description: "First Blog Post"
 keywords: ""
 categories:
 - welcome
@@ -11,22 +11,15 @@ tags:
 - welcome
 ---
 
-A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
+When reading these articles and researching what it meant to “think like a programmer”, I didn’t come across anything that particularly stood out to me. Like most things, thinking like a programmer just involves positive tendencies and logical beliefs. 
+To go into a little more depth, the first article, “Effective Learning Strategies for Programmers” by Allison Kaptur, talks a lot about the idea of a fixed mindset and a growth mindset. Throughout the article Kaptur identifies the “growth mindset” as the more compatible mindset to adapt when learning programming. Kaptur communicates sociologist Carol Dweck’s research on the topic who describes her experiments. Something that was interesting about the results of her experiments was how significantly the wording of instructor’s praise effected the students’ success rates. It is interesting how much a person who isn’t savvy to the idea of growth mindsets can be effected by a teacher.
+In the second article, “Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives” by Maria Popova, many of the same ideas that where conveyed in the first article were repeated. I thought the picture / graph helped me understand the theory better.	
+In a third article I found well further researching what it meant to think like a programmer (How Your Beliefs Can Sabotage Your Behavior (And What You Can Do About It) By James Clear, I found out that even the thoughts you have in your mind can hold you back. What is encouraging about this, is that you can “reframe” your thoughts to emulate more positive ones which will lead to success. 
+Overall, I thought the research that I did was interesting but not mind boggling. Everything that I read about, a part of me already knew. It’s logical to tell yourself that you are able to improve at things you aren’t good at. I think these findings not only apply to programming but also to life outside of the classroom.
 
-I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.
 
-I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.
 
-When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!
 
-O my friend -- but it is too much for my strength -- I sink under the weight of the splendour of these visions!
-
-A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.
-
-I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
-
-I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.
-
-I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.
-
-When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and
+http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
+https://www.brainpickings.org/index.php/2014/01/29/carol-dweck-mindset/
+http://jamesclear.com/fixed-mindset-vs-growth-mindset
