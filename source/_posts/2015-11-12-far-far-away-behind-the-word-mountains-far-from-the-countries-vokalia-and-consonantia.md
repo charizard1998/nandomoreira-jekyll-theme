@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia"
+title: "What are Block, inline-block & inline and when should you use them?"
 date: 2015-11-12 16:38:20
 comments: true
-description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia"
+description: "Second Blog Post"
 keywords: ""
 categories:
 - welcome
@@ -11,24 +11,19 @@ tags:
 - welcome
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Blog Post 2
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+What are Block, inline-block & inline and when should you use them?
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Block:
+Block is a clump of code that is condensed together. They are made up of one or more statements. The ideology of Block coding was developed in the 1950s. You know where a block begins when the keyword “begin” is entered. The block ends when the keyword “end” is entered. Block can be used to customize the code that you use in a blog post, sidebar, footer or page.  
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Inline Block:
+Inline block is a grid of boxes that formats your web page. Inline block can be achieved by “float”ing  and using different divs to separate the sections of code. Using inline block can be helpful when you are trying to organize your information.  Inline block elements are unique from inline elements because they can also have a length and a width. Its important to realize that when you are using inline block, it takes the page’s white space into account. Inline block formatting is also vertically aligned. This means if you toss two paragraphs into inline block, they will display on top of one another as suppose to side by side.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Inline:
+This is the source code which can be found inside the program. You need to use inline when you use other coding languages to reference the program you are working on. I like to think of it as a tool to help communicate between different sectors of your code. With the simple click of a button, CSS can be painlessly embedded. Inline allows CSS properties on a “per tag” basis. You can use this to change font size and font color.
 
-Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.
-
-The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again and again. And if she hasn’t been rewritten, then they are still using her.
-
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
-
-It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline
+Conclusion:
+Overall, I found this topic very interesting. Block, Inline and Inline Block are all closely related in terms of being CSS properties.
+ked her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline
